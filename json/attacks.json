@@ -1,0 +1,43 @@
+{
+    "Dog": [
+      {
+        "name": "Bite",
+        "damage": 12,
+        "cooldown": 600,
+        "range": 40,
+        "hitbox_width": 30,
+        "hitbox_height": 20,
+        "hitbox_shape": "rectangle"
+      },
+      {
+        "name": "Paw Swipe",
+        "damage": 8,
+        "cooldown": 500,
+        "range": 60,
+        "hitbox_width": 25,
+        "hitbox_height": 25,
+        "hitbox_shape": "rectangle"
+      }
+    ],
+    "Cat": [
+      {
+        "name": "Claw",
+        "damage": 10,
+        "cooldown": 500,
+        "range": 60,
+        "hitbox_width": 20,
+        "hitbox_height": 20,
+        "hitbox_shape": "rectangle"
+      },
+      {
+        "name": "Tail Whip",
+        "damage": 8,
+        "cooldown": 700,
+        "range": 50,
+        "hitbox_width": 25,
+        "hitbox_height": 15,
+        "hitbox_shape": "rectangle"
+      }
+    ]
+  }
+  
